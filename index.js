@@ -26,12 +26,11 @@ function divide(a, b){
 }
 
 function inc(n){
-  var solution = a + 1
+  var solution = a+=1
   return solution
 }
 
 function dec(n){
-  var solution = 
-}
-
+  var solution = a-=1 
+  return solution
 }
