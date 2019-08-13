@@ -40,7 +40,5 @@ function dec(a){
 function makeInt(){
 }
 
-function makeFloat(){
-}
-}
+function preserveDecimal(){
 }
