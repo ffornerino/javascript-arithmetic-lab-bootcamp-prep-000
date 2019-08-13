@@ -36,3 +36,11 @@ function dec(a){
   solution -=1 
   return solution
 }
+
+function makeInt(){
+}
+
+function makeFloat(){
+}
+}
+}
