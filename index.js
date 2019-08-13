@@ -37,8 +37,12 @@ function dec(a){
   return solution
 }
 
-function makeInt(){
+function makeInt(n){
+  var integer = parseInt(n, 10)
+  return integer
 }
 
-function preserveDecimal(){
+function preserveDecimal(n){
+  var float = parseFloat(n, 10)
+  return float
 }
