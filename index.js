@@ -25,4 +25,12 @@ function divide(a, b){
   return solution
 }
 
-function inc(n)
+function inc(n){
+  
+}
+
+function dec(n){
+  
+}
+
+}
