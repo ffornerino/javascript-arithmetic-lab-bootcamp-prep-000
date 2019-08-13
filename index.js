@@ -25,3 +25,4 @@ function divide(a, b){
   return solution
 }
 
+function inc(n)
