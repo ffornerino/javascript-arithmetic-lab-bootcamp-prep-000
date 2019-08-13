@@ -25,13 +25,13 @@ function divide(a, b){
   return solution
 }
 
-function inc(n){
+function inc(a){
   var solution = a
   solution +=1 
   return solution
 }
 
-function dec(n){
+function dec(a){
   var solution = a
   solution -=1 
   return solution
