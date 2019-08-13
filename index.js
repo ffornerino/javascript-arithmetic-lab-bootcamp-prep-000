@@ -1,0 +1,3 @@
+function inc(n){
+  
+}
